@@ -1,0 +1,1935 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.4.2">
+  <GameIcon />
+  <GameName>Super Mario Sunshine</GameName>
+  <CategoryName>Any%</CategoryName>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>16</AttemptCount>
+  <RunHistory>
+    <Time id="1" />
+    <Time id="2" />
+    <Time id="3" />
+    <Time id="4">
+      <RealTime>01:32:51.5603375</RealTime>
+      <GameTime>01:32:51.5603375</GameTime>
+    </Time>
+    <Time id="5" />
+    <Time id="6" />
+    <Time id="7" />
+    <Time id="8">
+      <RealTime>01:36:26.6454888</RealTime>
+      <GameTime>01:36:26.6454888</GameTime>
+    </Time>
+    <Time id="9" />
+    <Time id="10" />
+    <Time id="11" />
+    <Time id="12" />
+    <Time id="13">
+      <RealTime>01:36:35.6082449</RealTime>
+      <GameTime>01:36:35.6082449</GameTime>
+    </Time>
+    <Time id="14">
+      <RealTime>01:30:19.4624879</RealTime>
+      <GameTime>01:30:19.4624879</GameTime>
+    </Time>
+    <Time id="15" />
+    <Time id="16">
+      <RealTime>01:27:25.7060187</RealTime>
+      <GameTime>01:27:25.7060187</GameTime>
+    </Time>
+  </RunHistory>
+  <Segments>
+    <Segment>
+      <Name>Bianco Hills 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:52.0996490</RealTime>
+          <GameTime>00:10:52.0996490</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:10:44.9229438</RealTime>
+        <GameTime>00:10:44.9229438</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:10:55.5317471</RealTime>
+          <GameTime>00:10:55.5317471</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:10:53.3017253</RealTime>
+          <GameTime>00:10:53.3017253</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:10:44.9229438</RealTime>
+          <GameTime>00:10:44.9229438</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:11:00.1965809</RealTime>
+          <GameTime>00:11:00.1965809</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:11:16.2903407</RealTime>
+          <GameTime>00:11:16.2903407</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:10:59.4573593</RealTime>
+          <GameTime>00:10:59.4573593</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:10:50.1782115</RealTime>
+          <GameTime>00:10:50.1782115</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:10:50.4456126</RealTime>
+          <GameTime>00:10:50.4456126</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:10:52.0996490</RealTime>
+          <GameTime>00:10:52.0996490</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bianco Hills 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:19.7241549</RealTime>
+          <GameTime>00:12:19.7241549</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:16.0826649</RealTime>
+        <GameTime>00:01:16.0826649</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:40.2428667</RealTime>
+          <GameTime>00:01:40.2428667</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:27.8724502</RealTime>
+          <GameTime>00:01:27.8724502</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:22.4638583</RealTime>
+          <GameTime>00:01:22.4638583</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:18.4400430</RealTime>
+          <GameTime>00:01:18.4400430</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:25.9569582</RealTime>
+          <GameTime>00:01:25.9569582</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:23.9003995</RealTime>
+          <GameTime>00:01:23.9003995</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:16.1909821</RealTime>
+          <GameTime>00:01:16.1909821</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:16.0826649</RealTime>
+          <GameTime>00:01:16.0826649</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:27.6245059</RealTime>
+          <GameTime>00:01:27.6245059</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bianco Hills 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:14:35.4440362</RealTime>
+          <GameTime>00:14:35.4440362</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:10.6900000</RealTime>
+        <GameTime>00:02:11.2296866</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:12.9118011</RealTime>
+          <GameTime>00:02:12.9118011</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:22.1479891</RealTime>
+          <GameTime>00:02:22.1479891</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:27.8402280</RealTime>
+          <GameTime>00:02:27.8402280</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:15.6888805</RealTime>
+          <GameTime>00:02:15.6888805</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:33.0853780</RealTime>
+          <GameTime>00:02:33.0853780</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:01.7736984</RealTime>
+          <GameTime>00:03:01.7736984</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:11.2296866</RealTime>
+          <GameTime>00:02:11.2296866</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:49.1868386</RealTime>
+          <GameTime>00:02:49.1868386</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:15.7198813</RealTime>
+          <GameTime>00:02:15.7198813</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bianco Hills 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:51.7436502</RealTime>
+          <GameTime>00:17:51.7436502</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:52.7600000</RealTime>
+        <GameTime>00:03:02.6932247</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:10.4464464</RealTime>
+          <GameTime>00:03:10.4464464</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:12.0110882</RealTime>
+          <GameTime>00:03:12.0110882</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:03:16.2618800</RealTime>
+          <GameTime>00:03:16.2618800</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:02.6932247</RealTime>
+          <GameTime>00:03:02.6932247</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:19.0446925</RealTime>
+          <GameTime>00:03:19.0446925</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:16.4646185</RealTime>
+          <GameTime>00:03:16.4646185</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:18.0443095</RealTime>
+          <GameTime>00:03:18.0443095</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:03:17.9341606</RealTime>
+          <GameTime>00:03:17.9341606</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:16.2996140</RealTime>
+          <GameTime>00:03:16.2996140</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gelato Beach Skip</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:04.9724604</RealTime>
+          <GameTime>00:20:04.9724604</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:09.0526905</RealTime>
+        <GameTime>00:02:09.0526905</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:22.2640688</RealTime>
+          <GameTime>00:02:22.2640688</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:11.4708561</RealTime>
+          <GameTime>00:02:11.4708561</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:28.8019884</RealTime>
+          <GameTime>00:02:28.8019884</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:52.4734324</RealTime>
+          <GameTime>00:02:52.4734324</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:09.0526905</RealTime>
+          <GameTime>00:02:09.0526905</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:16.5779059</RealTime>
+          <GameTime>00:02:16.5779059</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:21.0651801</RealTime>
+          <GameTime>00:03:21.0651801</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:13.0978063</RealTime>
+          <GameTime>00:02:13.0978063</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:13.2288102</RealTime>
+          <GameTime>00:02:13.2288102</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Gelato Beach 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:57.6679674</RealTime>
+          <GameTime>00:20:57.6679674</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:51.7699803</RealTime>
+        <GameTime>00:00:51.7699803</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:51.7699803</RealTime>
+          <GameTime>00:00:51.7699803</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:51.8783875</RealTime>
+          <GameTime>00:00:51.8783875</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:52.2734948</RealTime>
+          <GameTime>00:00:52.2734948</GameTime>
+        </Time>
+        <Time id="8" />
+        <Time id="11">
+          <RealTime>00:00:52.8900127</RealTime>
+          <GameTime>00:00:52.8900127</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:52.5120018</RealTime>
+          <GameTime>00:00:52.5120018</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:52.9565847</RealTime>
+          <GameTime>00:00:52.9565847</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:56.5151162</RealTime>
+          <GameTime>00:00:56.5151162</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:52.6955070</RealTime>
+          <GameTime>00:00:52.6955070</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:22:45.2410436</RealTime>
+          <GameTime>00:22:45.2410436</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.5312892</RealTime>
+        <GameTime>00:01:37.5312892</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:37.5312892</RealTime>
+          <GameTime>00:01:37.5312892</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:53.1607361</RealTime>
+          <GameTime>00:01:53.1607361</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:08.6546794</RealTime>
+          <GameTime>00:02:08.6546794</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:31.3060431</RealTime>
+          <GameTime>00:03:31.3060431</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:37.9808020</RealTime>
+          <GameTime>00:01:37.9808020</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:41.8564130</RealTime>
+          <GameTime>00:01:41.8564130</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:47.8415840</RealTime>
+          <GameTime>00:01:47.8415840</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:00.7489533</RealTime>
+          <GameTime>00:02:00.7489533</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:47.5730762</RealTime>
+          <GameTime>00:01:47.5730762</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:24:12.2330316</RealTime>
+          <GameTime>00:24:12.2330316</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.8074824</RealTime>
+        <GameTime>00:01:26.8074824</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:27.0524897</RealTime>
+          <GameTime>00:01:27.0524897</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:26.8531115</RealTime>
+          <GameTime>00:01:26.8531115</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:27.4039995</RealTime>
+          <GameTime>00:01:27.4039995</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:27.4039995</RealTime>
+          <GameTime>00:01:27.4039995</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:26.9564869</RealTime>
+          <GameTime>00:01:26.9564869</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:26.8074824</RealTime>
+          <GameTime>00:01:26.8074824</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:26.9059853</RealTime>
+          <GameTime>00:01:26.9059853</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:27.1259917</RealTime>
+          <GameTime>00:01:27.1259917</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:26.9919880</RealTime>
+          <GameTime>00:01:26.9919880</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:25:23.0075556</RealTime>
+          <GameTime>00:25:23.0075556</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.9838014</RealTime>
+        <GameTime>00:01:02.9838014</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:06.6254053</RealTime>
+          <GameTime>00:01:06.6254053</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:03.4681874</RealTime>
+          <GameTime>00:01:03.4681874</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:49.8591419</RealTime>
+          <GameTime>00:01:49.8591419</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:04.2003362</RealTime>
+          <GameTime>00:01:04.2003362</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:07.8459403</RealTime>
+          <GameTime>00:01:07.8459403</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:02.9838014</RealTime>
+          <GameTime>00:01:02.9838014</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:46.7990543</RealTime>
+          <GameTime>00:01:46.7990543</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:56.0203180</RealTime>
+          <GameTime>00:01:56.0203180</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:10.7745240</RealTime>
+          <GameTime>00:01:10.7745240</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:26:57.8107668</RealTime>
+          <GameTime>00:26:57.8107668</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:26.7949821</RealTime>
+        <GameTime>00:01:26.7949821</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:39.2003369</RealTime>
+          <GameTime>00:01:39.2003369</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:32.6701504</RealTime>
+          <GameTime>00:01:32.6701504</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:28.1265203</RealTime>
+          <GameTime>00:01:28.1265203</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:41.9614159</RealTime>
+          <GameTime>00:01:41.9614159</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:30.9025997</RealTime>
+          <GameTime>00:01:30.9025997</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:26.7949821</RealTime>
+          <GameTime>00:01:26.7949821</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:33.0271605</RealTime>
+          <GameTime>00:01:33.0271605</GameTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:28.6875363</RealTime>
+          <GameTime>00:01:28.6875363</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:34.8032112</RealTime>
+          <GameTime>00:01:34.8032112</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:29:03.0293478</RealTime>
+          <GameTime>00:29:03.0293478</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:59.5429187</RealTime>
+        <GameTime>00:01:59.5429187</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:19.1346950</RealTime>
+          <GameTime>00:03:19.1346950</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:03:04.9542894</RealTime>
+          <GameTime>00:03:04.9542894</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:59.5429187</RealTime>
+          <GameTime>00:01:59.5429187</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:58.8506147</RealTime>
+          <GameTime>00:02:58.8506147</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:03:18.2421693</RealTime>
+          <GameTime>00:03:18.2421693</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:01.9957049</RealTime>
+          <GameTime>00:03:01.9957049</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:03.2090236</RealTime>
+          <GameTime>00:02:03.2090236</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:05.2185810</RealTime>
+          <GameTime>00:02:05.2185810</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:02.3277596</RealTime>
+          <GameTime>00:31:02.3277596</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:59.2984118</RealTime>
+        <GameTime>00:01:59.2984118</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:04.2760542</RealTime>
+          <GameTime>00:02:04.2760542</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:05.5620908</RealTime>
+          <GameTime>00:02:05.5620908</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:08.7336816</RealTime>
+          <GameTime>00:02:08.7336816</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:15.8823862</RealTime>
+          <GameTime>00:02:15.8823862</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:03.1650223</RealTime>
+          <GameTime>00:02:03.1650223</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:08.9776884</RealTime>
+          <GameTime>00:02:08.9776884</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:06.1221068</RealTime>
+          <GameTime>00:02:06.1221068</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:59.2984118</RealTime>
+          <GameTime>00:01:59.2984118</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pianta Village 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:31:53.6337268</RealTime>
+          <GameTime>00:31:53.6337268</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:51.2104644</RealTime>
+        <GameTime>00:00:51.2104644</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:51.2104644</RealTime>
+          <GameTime>00:00:51.2104644</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:00.3387255</RealTime>
+          <GameTime>00:01:00.3387255</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:51.5429741</RealTime>
+          <GameTime>00:00:51.5429741</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:51.2424653</RealTime>
+          <GameTime>00:00:51.2424653</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:00:51.2264649</RealTime>
+          <GameTime>00:00:51.2264649</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:51.9464856</RealTime>
+          <GameTime>00:00:51.9464856</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:51.2839668</RealTime>
+          <GameTime>00:00:51.2839668</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:51.3059672</RealTime>
+          <GameTime>00:00:51.3059672</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:34:51.5528150</RealTime>
+          <GameTime>00:34:51.5528150</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:47.3847868</RealTime>
+        <GameTime>00:02:47.3847868</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:59.4156310</RealTime>
+          <GameTime>00:02:59.4156310</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:49.2343399</RealTime>
+          <GameTime>00:02:49.2343399</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:49.2153393</RealTime>
+          <GameTime>00:02:49.2153393</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:54.6607111</RealTime>
+          <GameTime>00:03:54.6607111</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:58.8006136</RealTime>
+          <GameTime>00:02:58.8006136</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:11.6304802</RealTime>
+          <GameTime>00:03:11.6304802</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:47.3847868</RealTime>
+          <GameTime>00:02:47.3847868</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:57.9190882</RealTime>
+          <GameTime>00:02:57.9190882</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:36:10.2720663</RealTime>
+          <GameTime>00:36:10.2720663</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:18.7192513</RealTime>
+        <GameTime>00:01:18.7192513</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:28.5055313</RealTime>
+          <GameTime>00:01:28.5055313</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:20.4213000</RealTime>
+          <GameTime>00:01:20.4213000</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:18.7772528</RealTime>
+          <GameTime>00:01:18.7772528</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:19.9497864</RealTime>
+          <GameTime>00:01:19.9497864</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:21.7283373</RealTime>
+          <GameTime>00:01:21.7283373</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:59.7174238</RealTime>
+          <GameTime>00:01:59.7174238</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:18.8727556</RealTime>
+          <GameTime>00:01:18.8727556</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:18.7192513</RealTime>
+          <GameTime>00:01:18.7192513</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:14.4511177</RealTime>
+          <GameTime>00:38:14.4511177</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:35.1437209</RealTime>
+        <GameTime>00:01:35.1437209</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:35.1437209</RealTime>
+          <GameTime>00:01:35.1437209</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:47.2755678</RealTime>
+          <GameTime>00:01:47.2755678</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:35.6262346</RealTime>
+          <GameTime>00:01:35.6262346</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:37.0282747</RealTime>
+          <GameTime>00:01:37.0282747</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:02:15.3918720</RealTime>
+          <GameTime>00:02:15.3918720</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:47.1695648</RealTime>
+          <GameTime>00:01:47.1695648</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:01.5614766</RealTime>
+          <GameTime>00:02:01.5614766</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:04.1790514</RealTime>
+          <GameTime>00:02:04.1790514</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:39:56.8665466</RealTime>
+          <GameTime>00:39:56.8665466</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:33.7400000</RealTime>
+        <GameTime>00:01:41.4514015</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:42.7284378</RealTime>
+          <GameTime>00:01:42.7284378</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:44.5834909</RealTime>
+          <GameTime>00:01:44.5834909</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:02:09.2161955</RealTime>
+          <GameTime>00:02:09.2161955</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:41.4514015</RealTime>
+          <GameTime>00:01:41.4514015</GameTime>
+        </Time>
+        <Time id="11">
+          <RealTime>00:01:48.1340923</RealTime>
+          <GameTime>00:01:48.1340923</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:42.6834367</RealTime>
+          <GameTime>00:01:42.6834367</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:42.6309350</RealTime>
+          <GameTime>00:01:42.6309350</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:42.4154289</RealTime>
+          <GameTime>00:01:42.4154289</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:41:42.7210737</RealTime>
+          <GameTime>00:41:42.7210737</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:40.4700000</RealTime>
+        <GameTime>00:01:41.0553899</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:41.3983999</RealTime>
+          <GameTime>00:01:41.3983999</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:43.1219493</RealTime>
+          <GameTime>00:01:43.1219493</GameTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:01:41.0553899</RealTime>
+          <GameTime>00:01:41.0553899</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:44.5474897</RealTime>
+          <GameTime>00:01:44.5474897</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:42.2929255</RealTime>
+          <GameTime>00:01:42.2929255</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:43.8509700</RealTime>
+          <GameTime>00:01:43.8509700</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:45.8545271</RealTime>
+          <GameTime>00:01:45.8545271</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:43:37.7738640</RealTime>
+          <GameTime>00:43:37.7738640</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:53.4100000</RealTime>
+        <GameTime>00:01:53.8152549</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:57.9523731</RealTime>
+          <GameTime>00:01:57.9523731</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:04.1600507</RealTime>
+          <GameTime>00:02:04.1600507</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:03.3545278</RealTime>
+          <GameTime>00:02:03.3545278</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:32.7258677</RealTime>
+          <GameTime>00:02:32.7258677</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:53.8152549</RealTime>
+          <GameTime>00:01:53.8152549</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:55.0527903</RealTime>
+          <GameTime>00:01:55.0527903</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Pinna Park 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:44:49.7214216</RealTime>
+          <GameTime>00:44:49.7214216</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:01.5717609</RealTime>
+        <GameTime>00:01:01.5717609</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:03.1938073</RealTime>
+          <GameTime>00:01:03.1938073</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:02.1512774</RealTime>
+          <GameTime>00:01:02.1512774</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:01.5717609</RealTime>
+          <GameTime>00:01:01.5717609</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:12.1150623</RealTime>
+          <GameTime>00:01:12.1150623</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:03.1663065</RealTime>
+          <GameTime>00:01:03.1663065</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:11.9475576</RealTime>
+          <GameTime>00:01:11.9475576</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:46:46.2532542</RealTime>
+          <GameTime>00:46:46.2532542</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:55.7048088</RealTime>
+        <GameTime>00:01:55.7048088</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:55.8463130</RealTime>
+          <GameTime>00:01:55.8463130</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:56.6093348</RealTime>
+          <GameTime>00:01:56.6093348</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:01.4614736</RealTime>
+          <GameTime>00:02:01.4614736</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:08.4496734</RealTime>
+          <GameTime>00:02:08.4496734</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:55.7048088</RealTime>
+          <GameTime>00:01:55.7048088</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:56.5318326</RealTime>
+          <GameTime>00:01:56.5318326</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:48:26.2556143</RealTime>
+          <GameTime>00:48:26.2556143</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.5612900</RealTime>
+        <GameTime>00:01:37.5612900</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:37.8472984</RealTime>
+          <GameTime>00:01:37.8472984</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:37.7342951</RealTime>
+          <GameTime>00:01:37.7342951</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:37.5612900</RealTime>
+          <GameTime>00:01:37.5612900</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:38.1613074</RealTime>
+          <GameTime>00:01:38.1613074</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:37.9728021</RealTime>
+          <GameTime>00:01:37.9728021</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:40.0023601</RealTime>
+          <GameTime>00:01:40.0023601</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:49:19.9666503</RealTime>
+          <GameTime>00:49:19.9666503</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:53.0995184</RealTime>
+        <GameTime>00:00:53.0995184</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:59.5272023</RealTime>
+          <GameTime>00:00:59.5272023</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:53.0995184</RealTime>
+          <GameTime>00:00:53.0995184</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:09.7019934</RealTime>
+          <GameTime>00:01:09.7019934</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:18.0557321</RealTime>
+          <GameTime>00:01:18.0557321</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:55.7375940</RealTime>
+          <GameTime>00:00:55.7375940</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:53.7110360</RealTime>
+          <GameTime>00:00:53.7110360</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:51:02.4885822</RealTime>
+          <GameTime>00:51:02.4885822</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:27.8800000</RealTime>
+        <GameTime>00:01:28.0190173</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:34.5242033</RealTime>
+          <GameTime>00:01:34.5242033</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:31.4831164</RealTime>
+          <GameTime>00:01:31.4831164</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:30.7285946</RealTime>
+          <GameTime>00:01:30.7285946</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:28.0190173</RealTime>
+          <GameTime>00:01:28.0190173</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:37.4692874</RealTime>
+          <GameTime>00:01:37.4692874</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:42.5219319</RealTime>
+          <GameTime>00:01:42.5219319</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:52:41.0344005</RealTime>
+          <GameTime>00:52:41.0344005</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:36.4242576</RealTime>
+        <GameTime>00:01:36.4242576</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:47.2965685</RealTime>
+          <GameTime>00:01:47.2965685</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:47.3240692</RealTime>
+          <GameTime>00:01:47.3240692</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:36.4242576</RealTime>
+          <GameTime>00:01:36.4242576</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:38.4818163</RealTime>
+          <GameTime>00:01:38.4818163</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:30.7903124</RealTime>
+          <GameTime>00:02:30.7903124</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:38.5458183</RealTime>
+          <GameTime>00:01:38.5458183</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:05.7428230</RealTime>
+          <GameTime>00:54:05.7428230</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:24.7084225</RealTime>
+        <GameTime>00:01:24.7084225</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:26.2184656</RealTime>
+          <GameTime>00:01:26.2184656</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:24.9934308</RealTime>
+          <GameTime>00:01:24.9934308</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:34.7887109</RealTime>
+          <GameTime>00:01:34.7887109</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:33.3231690</RealTime>
+          <GameTime>00:01:33.3231690</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:25.5354461</RealTime>
+          <GameTime>00:01:25.5354461</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:24.7084225</RealTime>
+          <GameTime>00:01:24.7084225</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Ricco Harbor 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:54:56.7887829</RealTime>
+          <GameTime>00:54:56.7887829</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:50.4059416</RealTime>
+        <GameTime>00:00:50.4059416</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:50.5909468</RealTime>
+          <GameTime>00:00:50.5909468</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:50.4934439</RealTime>
+          <GameTime>00:00:50.4934439</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:50.4059416</RealTime>
+          <GameTime>00:00:50.4059416</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:50.5124446</RealTime>
+          <GameTime>00:00:50.5124446</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:50.4214421</RealTime>
+          <GameTime>00:00:50.4214421</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:51.0459599</RealTime>
+          <GameTime>00:00:51.0459599</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bianco Hills 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:57:04.9534480</RealTime>
+          <GameTime>00:57:04.9534480</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:08.1646651</RealTime>
+        <GameTime>00:02:08.1646651</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:02:24.3061271</RealTime>
+          <GameTime>00:02:24.3061271</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:39.6370654</RealTime>
+          <GameTime>00:02:39.6370654</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:04:40.2080134</RealTime>
+          <GameTime>00:04:40.2080134</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:16.8139127</RealTime>
+          <GameTime>00:02:16.8139127</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:24.2311245</RealTime>
+          <GameTime>00:02:24.2311245</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:08.1646651</RealTime>
+          <GameTime>00:02:08.1646651</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bianco Hills 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:57:58.7779874</RealTime>
+          <GameTime>00:57:58.7779874</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:52.4279992</RealTime>
+        <GameTime>00:00:52.4279992</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:00:52.7440084</RealTime>
+          <GameTime>00:00:52.7440084</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:10.4485147</RealTime>
+          <GameTime>00:01:10.4485147</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:53.6945356</RealTime>
+          <GameTime>00:00:53.6945356</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:52.4279992</RealTime>
+          <GameTime>00:00:52.4279992</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:00:53.4150276</RealTime>
+          <GameTime>00:00:53.4150276</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:53.8245394</RealTime>
+          <GameTime>00:00:53.8245394</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:00:41.9201529</RealTime>
+          <GameTime>01:00:41.9201529</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:43.1421655</RealTime>
+        <GameTime>00:02:43.1421655</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:25.3708731</RealTime>
+          <GameTime>00:03:25.3708731</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:02:50.9058878</RealTime>
+          <GameTime>00:02:50.9058878</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:17.5256488</RealTime>
+          <GameTime>00:03:17.5256488</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:17.5751503</RealTime>
+          <GameTime>00:03:17.5751503</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:16.4541183</RealTime>
+          <GameTime>00:03:16.4541183</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:43.1421655</RealTime>
+          <GameTime>00:02:43.1421655</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:02:41.1985641</RealTime>
+          <GameTime>01:02:41.1985641</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:47.2245666</RealTime>
+        <GameTime>00:01:47.2245666</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:54.3812712</RealTime>
+          <GameTime>00:01:54.3812712</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:47.7750820</RealTime>
+          <GameTime>00:01:47.7750820</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:50.5238767</RealTime>
+          <GameTime>00:02:50.5238767</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:18.0654486</RealTime>
+          <GameTime>00:02:18.0654486</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:47.2245666</RealTime>
+          <GameTime>00:01:47.2245666</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:59.2784112</RealTime>
+          <GameTime>00:01:59.2784112</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:03:50.8735568</RealTime>
+          <GameTime>01:03:50.8735568</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.2838383</RealTime>
+        <GameTime>00:01:04.2838383</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:18.5967478</RealTime>
+          <GameTime>00:01:18.5967478</GameTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:01:11.2925388</RealTime>
+          <GameTime>00:01:11.2925388</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:10.6740213</RealTime>
+          <GameTime>00:01:10.6740213</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:04.2838383</RealTime>
+          <GameTime>00:01:04.2838383</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:25.8004538</RealTime>
+          <GameTime>00:01:25.8004538</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:09.6749927</RealTime>
+          <GameTime>00:01:09.6749927</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:06:02.4588199</RealTime>
+          <GameTime>01:06:02.4588199</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:45.0030029</RealTime>
+        <GameTime>00:01:45.0030029</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:45.0030029</RealTime>
+          <GameTime>00:01:45.0030029</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:50.7441671</RealTime>
+          <GameTime>00:01:50.7441671</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:50.9311724</RealTime>
+          <GameTime>00:01:50.9311724</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:05.2180809</RealTime>
+          <GameTime>00:02:05.2180809</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:02:11.5852631</RealTime>
+          <GameTime>00:02:11.5852631</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:09:04.9915399</RealTime>
+          <GameTime>01:09:04.9915399</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:57.5950790</RealTime>
+        <GameTime>00:02:57.5950790</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:03:22.8733017</RealTime>
+          <GameTime>00:03:22.8733017</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:01.5206911</RealTime>
+          <GameTime>00:03:01.5206911</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:32.4275751</RealTime>
+          <GameTime>00:03:32.4275751</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:57.5950790</RealTime>
+          <GameTime>00:02:57.5950790</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:02.5327200</RealTime>
+          <GameTime>00:03:02.5327200</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:10:42.7883368</RealTime>
+          <GameTime>01:10:42.7883368</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:34.2876965</RealTime>
+        <GameTime>00:01:34.2876965</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:38.5528186</RealTime>
+          <GameTime>00:01:38.5528186</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:34.2876965</RealTime>
+          <GameTime>00:01:34.2876965</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:40.3253692</RealTime>
+          <GameTime>00:01:40.3253692</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:39.6348493</RealTime>
+          <GameTime>00:01:39.6348493</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:37.7967969</RealTime>
+          <GameTime>00:01:37.7967969</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Sirena Beach 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:11:45.9236424</RealTime>
+          <GameTime>01:11:45.9236424</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.2597805</RealTime>
+        <GameTime>00:01:02.2597805</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:03.4543144</RealTime>
+          <GameTime>00:01:03.4543144</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:02.2617806</RealTime>
+          <GameTime>00:01:02.2617806</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:02.2597805</RealTime>
+          <GameTime>00:01:02.2597805</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:10.3740127</RealTime>
+          <GameTime>00:01:10.3740127</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:03.1353056</RealTime>
+          <GameTime>00:01:03.1353056</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:13:28.4995760</RealTime>
+          <GameTime>01:13:28.4995760</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.5759336</RealTime>
+        <GameTime>00:01:42.5759336</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:57.1783514</RealTime>
+          <GameTime>00:01:57.1783514</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:49.9656449</RealTime>
+          <GameTime>00:01:49.9656449</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:02:00.3549420</RealTime>
+          <GameTime>00:02:00.3549420</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:02.3159979</RealTime>
+          <GameTime>00:02:02.3159979</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:42.5759336</RealTime>
+          <GameTime>00:01:42.5759336</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:14:43.7387277</RealTime>
+          <GameTime>01:14:43.7387277</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:04.6000000</RealTime>
+        <GameTime>00:01:07.6209337</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:16.4081851</RealTime>
+          <GameTime>00:01:16.4081851</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:07.6209337</RealTime>
+          <GameTime>00:01:07.6209337</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:30.9065999</RealTime>
+          <GameTime>00:01:30.9065999</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:20.6533066</RealTime>
+          <GameTime>00:01:20.6533066</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:15.2391517</RealTime>
+          <GameTime>00:01:15.2391517</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:16:28.2432164</RealTime>
+          <GameTime>01:16:28.2432164</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:31.4636157</RealTime>
+        <GameTime>00:01:31.4636157</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:37.4072857</RealTime>
+          <GameTime>00:01:37.4072857</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:31.4636157</RealTime>
+          <GameTime>00:01:31.4636157</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:33.4696729</RealTime>
+          <GameTime>00:01:33.4696729</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:32.9481582</RealTime>
+          <GameTime>00:01:32.9481582</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:44.5044887</RealTime>
+          <GameTime>00:01:44.5044887</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 4</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:19:37.1416185</RealTime>
+          <GameTime>01:19:37.1416185</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:36.3574715</RealTime>
+        <GameTime>00:02:36.3574715</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>02:25:00</RealTime>
+          <GameTime>00:03:23.4718189</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:03:29.9680049</RealTime>
+          <GameTime>00:03:29.9680049</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:04:10.8991754</RealTime>
+          <GameTime>00:04:10.8991754</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:02:36.3574715</RealTime>
+          <GameTime>00:02:36.3574715</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:08.8984021</RealTime>
+          <GameTime>00:03:08.8984021</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 5</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:21:17.1824794</RealTime>
+          <GameTime>01:21:17.1824794</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.5738476</RealTime>
+        <GameTime>00:01:39.5738476</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4" />
+        <Time id="8">
+          <RealTime>00:01:45.3730134</RealTime>
+          <GameTime>00:01:45.3730134</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:01:40.1403639</RealTime>
+          <GameTime>00:01:40.1403639</GameTime>
+        </Time>
+        <Time id="0" />
+        <Time id="14">
+          <RealTime>00:01:39.5738476</RealTime>
+          <GameTime>00:01:39.5738476</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:40.0408609</RealTime>
+          <GameTime>00:01:40.0408609</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 6</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:05.2135689</RealTime>
+          <GameTime>01:23:05.2135689</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:48.0310895</RealTime>
+        <GameTime>00:01:48.0310895</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:05:12.5599386</RealTime>
+          <GameTime>00:05:12.5599386</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:37.5525059</RealTime>
+          <GameTime>00:02:37.5525059</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:03:11.5359776</RealTime>
+          <GameTime>00:03:11.5359776</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:05:12.5599386</RealTime>
+          <GameTime>00:05:12.5599386</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:56.4113293</RealTime>
+          <GameTime>00:01:56.4113293</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:48.0310895</RealTime>
+          <GameTime>00:01:48.0310895</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Noki Bay 7</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:23:54.2294707</RealTime>
+          <GameTime>01:23:54.2294707</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:49.0159018</RealTime>
+        <GameTime>00:00:49.0159018</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:01:22.5458609</RealTime>
+          <GameTime>00:01:22.5458609</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:00:52.7710091</RealTime>
+          <GameTime>00:00:52.7710091</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:00:52.4129988</RealTime>
+          <GameTime>00:00:52.4129988</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:01:03.4623149</RealTime>
+          <GameTime>00:01:03.4623149</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:00:49.0159018</RealTime>
+          <GameTime>00:00:49.0159018</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Corona Mountain</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>01:27:25.7060187</RealTime>
+          <GameTime>01:27:25.7060187</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:22</RealTime>
+        <GameTime>00:03:31.4765480</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="4">
+          <RealTime>00:04:18.3198874</RealTime>
+          <GameTime>00:04:18.3198874</GameTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:04:46.5146939</RealTime>
+          <GameTime>00:04:46.5146939</GameTime>
+        </Time>
+        <Time id="13">
+          <RealTime>00:05:25.3918058</RealTime>
+          <GameTime>00:05:25.3918058</GameTime>
+        </Time>
+        <Time id="14">
+          <RealTime>00:03:38.0247351</RealTime>
+          <GameTime>00:03:38.0247351</GameTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:31.4765480</RealTime>
+          <GameTime>00:03:31.4765480</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
